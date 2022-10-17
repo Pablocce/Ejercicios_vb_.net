@@ -1,0 +1,12 @@
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\bin\Debug\tablaMultiplicar.exe.config
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\bin\Debug\tablaMultiplicar.exe
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\bin\Debug\tablaMultiplicar.pdb
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\bin\Debug\tablaMultiplicar.xml
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.vbprojAssemblyReference.cache
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.Form1.resources
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.Resources.resources
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.vbproj.GenerateResource.cache
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.vbproj.CoreCompileInputs.cache
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.exe
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.xml
+D:\Instituto\2_dam\desarrollo_interfaces\primer trimestre\tablaMultiplicar\tablaMultiplicar\obj\Debug\tablaMultiplicar.pdb
