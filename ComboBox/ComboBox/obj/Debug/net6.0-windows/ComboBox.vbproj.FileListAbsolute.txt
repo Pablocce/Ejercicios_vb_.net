@@ -1,0 +1,17 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.deps.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.runtimeconfig.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.vbproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.AssemblyInfo.vb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\refint\ComboBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.genruntimeconfig.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ComboBox\ComboBox\obj\Debug\net6.0-windows\ref\ComboBox.dll

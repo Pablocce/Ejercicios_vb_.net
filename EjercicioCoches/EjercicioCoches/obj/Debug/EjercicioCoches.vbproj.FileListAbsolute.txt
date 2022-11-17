@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\bin\Debug\EjercicioCoches.exe.config
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\bin\Debug\EjercicioCoches.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\bin\Debug\EjercicioCoches.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\bin\Debug\EjercicioCoches.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.Resources.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioCoches\EjercicioCoches\obj\Debug\EjercicioCoches.pdb

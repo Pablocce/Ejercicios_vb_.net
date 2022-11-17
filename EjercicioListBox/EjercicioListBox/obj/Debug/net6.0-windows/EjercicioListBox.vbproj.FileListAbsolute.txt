@@ -1,0 +1,17 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\bin\Debug\net6.0-windows\EjercicioListBox.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\bin\Debug\net6.0-windows\EjercicioListBox.deps.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\bin\Debug\net6.0-windows\EjercicioListBox.runtimeconfig.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\bin\Debug\net6.0-windows\EjercicioListBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\bin\Debug\net6.0-windows\EjercicioListBox.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.vbproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.AssemblyInfo.vb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\refint\EjercicioListBox.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\EjercicioListBox.genruntimeconfig.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioListBox\EjercicioListBox\obj\Debug\net6.0-windows\ref\EjercicioListBox.dll

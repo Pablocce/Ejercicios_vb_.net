@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.exe.config
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.Resources.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.pdb

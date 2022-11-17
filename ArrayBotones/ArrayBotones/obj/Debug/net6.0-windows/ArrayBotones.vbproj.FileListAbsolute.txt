@@ -1,0 +1,17 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\bin\Debug\net6.0-windows\ArrayBotones.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\bin\Debug\net6.0-windows\ArrayBotones.deps.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\bin\Debug\net6.0-windows\ArrayBotones.runtimeconfig.json
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\bin\Debug\net6.0-windows\ArrayBotones.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\bin\Debug\net6.0-windows\ArrayBotones.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.vbproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.AssemblyInfo.vb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\refint\ArrayBotones.dll
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ArrayBotones.genruntimeconfig.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\ArrayBotones\ArrayBotones\obj\Debug\net6.0-windows\ref\ArrayBotones.dll

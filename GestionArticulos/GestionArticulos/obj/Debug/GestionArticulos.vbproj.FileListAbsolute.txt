@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\bin\Debug\GestionArticulos.exe.config
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\bin\Debug\GestionArticulos.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\bin\Debug\GestionArticulos.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\bin\Debug\GestionArticulos.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.Resources.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\GestionArticulos\GestionArticulos\obj\Debug\GestionArticulos.pdb

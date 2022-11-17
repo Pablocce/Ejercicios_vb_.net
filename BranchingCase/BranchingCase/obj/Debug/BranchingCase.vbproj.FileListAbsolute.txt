@@ -1,0 +1,12 @@
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\bin\Debug\BranchingCase.exe.config
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\bin\Debug\BranchingCase.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\bin\Debug\BranchingCase.pdb
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\bin\Debug\BranchingCase.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.vbprojAssemblyReference.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.Form1.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.Resources.resources
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.vbproj.GenerateResource.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.exe
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.xml
+C:\Users\pablo\Desktop\insti\2_dam\desarrollo_interfaces\primer trimestre\BranchingCase\BranchingCase\obj\Debug\BranchingCase.pdb
