@@ -1,0 +1,17 @@
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.vbproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.Form1.resources
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.vbproj.GenerateResource.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.AssemblyInfo.vb
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.vbproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\bin\Debug\net6.0-windows\Libreria.exe
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\bin\Debug\net6.0-windows\Libreria.deps.json
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\bin\Debug\net6.0-windows\Libreria.runtimeconfig.json
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\bin\Debug\net6.0-windows\Libreria.dll
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\bin\Debug\net6.0-windows\Libreria.pdb
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.dll
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\refint\Libreria.dll
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.pdb
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\Libreria.genruntimeconfig.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_vb_.net\Libreria\Libreria\obj\Debug\net6.0-windows\ref\Libreria.dll
