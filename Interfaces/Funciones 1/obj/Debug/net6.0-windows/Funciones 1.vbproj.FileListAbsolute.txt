@@ -1,0 +1,17 @@
+E:\Interfaces\Funciones 1\bin\Debug\net6.0-windows\Funciones 1.exe
+E:\Interfaces\Funciones 1\bin\Debug\net6.0-windows\Funciones 1.deps.json
+E:\Interfaces\Funciones 1\bin\Debug\net6.0-windows\Funciones 1.runtimeconfig.json
+E:\Interfaces\Funciones 1\bin\Debug\net6.0-windows\Funciones 1.dll
+E:\Interfaces\Funciones 1\bin\Debug\net6.0-windows\Funciones 1.pdb
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.vbproj.AssemblyReference.cache
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones_1.Form1.resources
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.vbproj.GenerateResource.cache
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.AssemblyInfoInputs.cache
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.AssemblyInfo.vb
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.vbproj.CoreCompileInputs.cache
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.dll
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\refint\Funciones 1.dll
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.pdb
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\Funciones 1.genruntimeconfig.cache
+E:\Interfaces\Funciones 1\obj\Debug\net6.0-windows\ref\Funciones 1.dll

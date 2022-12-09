@@ -1,0 +1,39 @@
+Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        PictureBox1.Image = Image.FromFile(Application.StartupPath & "\Fotos\espana.jpg")
+        PictureBox2.Image = Image.FromFile(Application.StartupPath & "\Fotos\alemania.jpg")
+        PictureBox3.Image = Image.FromFile(Application.StartupPath & "\Fotos\argentina.jpg")
+    End Sub
+
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+        PictureBox4.Image = Image.FromFile(Application.StartupPath & "\Fotos\espana.jpg")
+
+    End Sub
+
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+        PictureBox4.Image = Image.FromFile(Application.StartupPath & "\Fotos\alemania.jpg")
+    End Sub
+
+    Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click
+        PictureBox4.Image = Image.FromFile(Application.StartupPath & "\Fotos\argentina.jpg")
+    End Sub
+
+    Private Sub btZoom_Click(sender As Object, e As EventArgs) Handles btZoom.Click
+        '    PictureBox4.SizeMode = PictureBoxSizeMode.CenterImage
+        '    'PictureBox4.Size = New Size(300, 500)              #Para redimensionar la imagen
+
+        PictureBox4.Height = PictureBox4.Height + 25
+        PictureBox4.Width = PictureBox4.Width + 25
+    End Sub
+
+    Private Sub btNoZoom_Click(sender As Object, e As EventArgs) Handles btNoZoom.Click
+        'PictureBox4.SizeMode = PictureBoxSizeMode.StretchImage
+        PictureBox4.Height = PictureBox4.Height - 25
+        PictureBox4.Width = PictureBox4.Width - 25
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        End
+    End Sub
+End Class
